@@ -8,9 +8,9 @@ import { Router } from '@angular/router';
 })
 export class ProjectsComponent {
   projects = [
-    { title: 'Blank Sheet', description: 'A fool proof text page for my father', image: 'assets/text_on_img.png', url: "https://lexieeagleson.github.io/" },
-    { title: 'Project Two', description: 'Description for project two.', image: 'assets/project-two.jpg' },
-    { title: 'Project Three', description: 'Description for project three.', image: 'assets/project-three.jpg' },
+    { title: 'Blank Sheet', description: 'Angular', url: "https://lexieeagleson.github.io/text_on_image/" },
+    { title: 'Project 2', description: 'Description for project two.', image: 'assets/project-two.jpg' },
+    { title: 'Project 3', description: 'Description for project three.', image: 'assets/project-three.jpg' },
     { title: 'Project 4', description: 'Description for project three.', image: 'assets/project-three.jpg' },
     { title: 'Project 5', description: 'Description for project three.', image: 'assets/project-three.jpg' },
     { title: 'Project 6', description: 'Description for project three.', image: 'assets/project-three.jpg' },
